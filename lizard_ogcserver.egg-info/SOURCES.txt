@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+lizard_ogcserver/__init__.py
+lizard_ogcserver/models.py
+lizard_ogcserver/tests.py
+lizard_ogcserver/testsettings.py
+lizard_ogcserver/urls.py
+lizard_ogcserver/views.py
+lizard_ogcserver.egg-info/PKG-INFO
+lizard_ogcserver.egg-info/SOURCES.txt
+lizard_ogcserver.egg-info/dependency_links.txt
+lizard_ogcserver.egg-info/entry_points.txt
+lizard_ogcserver.egg-info/not-zip-safe
+lizard_ogcserver.egg-info/requires.txt
+lizard_ogcserver.egg-info/top_level.txt
